@@ -1,0 +1,19 @@
+# Specifies intentionally untracked files to ignore when using Git
+# http://git-scm.com/docs/gitignore
+
+
+neben_app/.idea
+neben_app/.ionic
+neben_app/.sass-cache
+neben_app/.sourcemaps
+neben_app/.versions
+neben_app/.vscode
+neben_app/coverage
+neben_app/dist
+neben_app/node_modules
+neben_app/platforms
+neben_app/plugins
+neben_app/www
+
+neben_back/node_modules
+neben_back/dist
